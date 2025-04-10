@@ -1,0 +1,18 @@
+{
+  "name": "hosting-local",
+  "version": "1.0.0",
+  "description": "kebutuhan hosting local",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "hari",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.9",
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "http": "^0.0.1-security",
+    "path": "^0.12.7"
+  }
+}
